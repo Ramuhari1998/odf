@@ -1,0 +1,24 @@
+div.b
+{
+background: rgb(200,200,200);
+background: rgba(200,200,200,0.9);
+width: 700px;
+border:10px green;
+padding:30px;
+margin-top:20px;
+border-radius: 25px;
+}
+.button {
+  border-radius: 25px;
+  border: none;
+  color: white;
+ background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px ;
+  cursor: pointer;
+  opacity: 0.9;
+}
